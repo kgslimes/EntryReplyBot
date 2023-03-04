@@ -3,7 +3,6 @@ import graphql
 import os
 from bs4 import BeautifulSoup as bs
 import traceback
-from fflask import thread
 import json
 
 pre_id = ''
